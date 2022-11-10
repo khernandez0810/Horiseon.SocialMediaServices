@@ -99,14 +99,14 @@ main {
     text-align: center;
 }
 
-/* benefit img  */
+
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/* SERVICES */
+/* services */
 .service {
     margin-bottom: 20px;
     padding: 50px;
